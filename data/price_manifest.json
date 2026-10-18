@@ -1,0 +1,9 @@
+{
+  "rows": 251732,
+  "signal_rows": 183300,
+  "signal_days": 611,
+  "historical_membership_extra": 0,
+  "historical_membership_missing": 0,
+  "prices_sha256": "23bf121516fef7d6b116e65bb08c95b7a9cb049220d675b65c42d5db80b2ae6e",
+  "source": "https://github.com/chenditc/investment_data/releases/tag/2024-12-07"
+}
