@@ -1,0 +1,81 @@
+{
+  "prediction_rows": 183300,
+  "prediction_max_absolute_difference": 0.0,
+  "recomputed_from_official_weights": true,
+  "accounting_checks": [
+    {
+      "ledger": "daily_baseline_0_0.csv",
+      "rows": 610,
+      "nav_error": 3.6415315207705135e-14,
+      "cost_error": 3.183217578417441e-16
+    },
+    {
+      "ledger": "daily_baseline_10_20.csv",
+      "rows": 610,
+      "nav_error": 1.9761969838327786e-14,
+      "cost_error": 4.388850394221322e-16
+    },
+    {
+      "ledger": "daily_baseline_5_15.csv",
+      "rows": 610,
+      "nav_error": 2.1538326677728037e-14,
+      "cost_error": 6.661338147750939e-16
+    },
+    {
+      "ledger": "daily_buffer_0_0.csv",
+      "rows": 610,
+      "nav_error": 3.419486915845482e-14,
+      "cost_error": 3.0661237437890065e-16
+    },
+    {
+      "ledger": "daily_buffer_10_20.csv",
+      "rows": 610,
+      "nav_error": 2.6201263381153694e-14,
+      "cost_error": 4.811689241490669e-16
+    },
+    {
+      "ledger": "daily_buffer_5_15.csv",
+      "rows": 610,
+      "nav_error": 3.3084646133829665e-14,
+      "cost_error": 4.640385298237959e-16
+    },
+    {
+      "ledger": "daily_smooth_0_0.csv",
+      "rows": 610,
+      "nav_error": 3.6415315207705135e-14,
+      "cost_error": 4.2327252813834093e-16
+    },
+    {
+      "ledger": "daily_smooth_10_20.csv",
+      "rows": 610,
+      "nav_error": 2.4868995751603507e-14,
+      "cost_error": 4.432218481120742e-16
+    },
+    {
+      "ledger": "daily_smooth_5_15.csv",
+      "rows": 610,
+      "nav_error": 3.064215547965432e-14,
+      "cost_error": 4.440892098500626e-16
+    },
+    {
+      "ledger": "daily_smooth_buffer_0_0.csv",
+      "rows": 610,
+      "nav_error": 3.6415315207705135e-14,
+      "cost_error": 4.3368086899420177e-16
+    },
+    {
+      "ledger": "daily_smooth_buffer_10_20.csv",
+      "rows": 610,
+      "nav_error": 2.708944180085382e-14,
+      "cost_error": 4.996003610813204e-16
+    },
+    {
+      "ledger": "daily_smooth_buffer_5_15.csv",
+      "rows": 610,
+      "nav_error": 2.9753977059954195e-14,
+      "cost_error": 4.614364446098307e-16
+    }
+  ],
+  "numpy": "2.3.5",
+  "pandas": "3.0.1"
+}
